@@ -114,8 +114,60 @@ This program prints numbers from 0 to 5 using a `while` loop.
 
 ---
 
+## 11. Countdown and New Year Message
+**Description:**  
+This program uses a `while` loop to print a countdown and displays "Happy New Year!" at the end.
+
+**Key Features:**  
+- Prints countdown numbers.  
+- Outputs a festive "Happy New Year!" message when the countdown ends.
+
+---
+
+## 12. Yatzy Check Using While Loop
+**Description:**  
+This program simulates rolling a dice and prints "Yatzy" if the dice number is 6.
+
+**Key Features:**  
+- Uses a `while` loop to simulate rolling.  
+- Outputs "Yatzy" when the dice roll equals 6.
+
+---
+
+## 13. Print Numbers Using For Loop
+**Description:**  
+This program prints numbers from 0 to 5 using a `for` loop.
+
+**Key Features:**  
+- Demonstrates the use of a `for` loop.  
+- Outputs numbers sequentially from 0 to 5.
+
+---
+
+## 14. Prime Number Check
+**Description:**  
+This program uses a `while` loop to check if a user-input number is a prime number.
+
+**Key Features:**  
+- User input for the number.  
+- Checks divisors to determine if the number is prime.  
+- Outputs whether the number is prime or not.
+
+---
+
+## 15. Binary to Decimal Conversion
+**Description:**  
+This program converts a binary number (entered as input) into its decimal equivalent.
+
+**Key Features:**  
+- User input for the binary number.  
+- Converts binary to decimal using built-in Python functions or manual computation.  
+- Outputs the decimal equivalent of the binary number.
+
+---
+
 ## How to Use
-1. Copy each program into a Python file (e.g., `triangle_validity.py`, `profit_or_loss.py`, etc.).  
+1. Copy each program into a Python file (e.g., `countdown_new_year.py`, `binary_to_decimal.py`, etc.).  
 2. Run the Python file using a Python interpreter (`python filename.py`).  
 3. Follow the prompts to provide input and see the results.
 
